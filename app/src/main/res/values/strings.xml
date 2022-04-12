@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ejercicio1CM</string>
+    <string name="saludo">hola mundo</string>
+    <string name="saludar">Saludar</string>
 </resources>
